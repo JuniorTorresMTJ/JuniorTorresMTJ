@@ -1,14 +1,13 @@
-# Daniel Obara
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
+# Junior Torres
+[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marivaldotorres/)](https://www.linkedin.com/in/marivaldotorres/)
+
+[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juniortorres.mtj@gmail.com)](juniortorres.mtj@gmail.com)
 ## Hi 👋, 
-I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Junior Torres, I'm a Data Analyst 👨‍💻 who is passionate about Data technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,Ruby,DevOps and of course JS improvments
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
+- 🔭 I’m currently working as Data Analyst at RankmyApp in Brazil.
+- 🌱 I’m currently learning Python, Data Science, IA and PowerBi
+- 💬 Ask me about: tech, Films, anime and League of Legends.
+-  ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.
 
-"Do not expect from others what you expect of yourself." 
+"In the comfort zone there is no growth." 
