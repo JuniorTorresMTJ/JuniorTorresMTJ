@@ -6,7 +6,7 @@
 I'm Junior Torres, I'm a Data Analyst 👨‍💻 who is passionate about Data technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working as Data Analyst at RankmyApp in Brazil.
-- 🌱 I’m currently learning Python, Data Science, IA and PowerBi
+- 🌱 I’m currently learning Python, Data Science, AI and PowerBi
 - 💬 Ask me about: tech, Films, anime and League of Legends.
 -  ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.
 
