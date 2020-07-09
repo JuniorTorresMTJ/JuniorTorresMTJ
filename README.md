@@ -6,7 +6,7 @@
   <em>
     I'm Junior Torres, I'm a Data Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is passionate about Data technologies and its entire ecosystem. 
     Graduating from <a href="https://spo.ifsp.edu.br/"> <b>Instituto Federal de São Paulo (IFSP)</b>, Brazil</a>. <br>
-    A budding <b>Developer</b>  and a <b>Data Science Enthusiast<br>.
+    A budding <b>Developer</b>  and a <b>Data Science Enthusiast.<br>
    
   </em>  
 </p>
