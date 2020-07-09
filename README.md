@@ -11,7 +11,7 @@
   </em>  
 </p>
   - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.<br>
-  - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt>
+  - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt><br>
   - 💬 Ask me about: tech, Films, anime and League of Legends.<br>
   - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.<br>
      
