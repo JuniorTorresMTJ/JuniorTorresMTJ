@@ -8,14 +8,13 @@
     Graduating from <a href="https://www.srmist.edu.in/"> <b>Instituto Federal de São Paulo (IFSP)</b>, Brazil</a>. <br>
     A budding <b>Software Developer</b>  and a <b>Data Science Enthusiast<br>.
    
-
   </em>  
-    - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.
+</p>
+  - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.
      - 🌱 I’m currently learning Python, Data Science, AI and PowerBi
      - 💬 Ask me about: tech, Films, anime and League of Legends.
      - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.
-</p>
-
+     
 "In the comfort zone there is no growth." <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
 <br>
 <br>
