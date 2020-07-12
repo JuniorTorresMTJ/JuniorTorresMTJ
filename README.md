@@ -14,6 +14,7 @@
   - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt><br>
   - 💬 Ask me about: tech, Films, anime and League of Legends.<br>
   - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.<br>
+  - 🎮 Gamer.<br>
      
 "In the comfort zone there is no growth." <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
 <br>
