@@ -12,9 +12,9 @@
 </p>
   - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.<br>
   - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt><br>
-  - 💬 Ask me about: Tech, Films, Anime and League of Legends.<br>
+  - 💬 Ask me about: Tech, Films, Animes and League of Legends.<br>
   - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.<br>
-  - 🎮 Gamer.<br>
+  - 🎮 Gamer and Dog lover.<br>
      
 "In the comfort zone there is no growth." <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
 <br>
