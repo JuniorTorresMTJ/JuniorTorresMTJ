@@ -42,11 +42,3 @@
 </a>
 
 
-<a href="https://github.com/JuniorTorresMTJ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTorresMTJ&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/JuniorTorresMTJ">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorTorresMTJ&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
-
