@@ -2,21 +2,24 @@
 
  
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<p>
-  <em>
+ <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left">
     I'm Junior Torres, I'm a Data Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is passionate about Data technologies and its entire ecosystem. 
     Graduating from <a href="https://spo.ifsp.edu.br/"> <b>Instituto Federal de São Paulo (IFSP)</b>, Brazil</a>. <br>
     A budding <b>Developer</b>  and a <b>Data Science Enthusiast.<br>
-   
-  </em>  
 </p>
+ 
+ <p>
   - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.<br>
   - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt><br>
   - 💬 Ask me about: Tech, Films, Animes and League of Legends.<br>
   - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.<br>
   - 🎮 Gamer and Dog lover.<br>
-     
-"In the comfort zone there is no growth." <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </p>   
+ 
+<p><b>"In the comfort zone there is no growth."</b><p>
+ 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
 <br>
 <br>
 
