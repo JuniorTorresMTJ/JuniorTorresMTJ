@@ -13,11 +13,11 @@
 </p>
  
  <p>
-  - ⭐️ I’m currently working as Data Analyst in Brazil.<br>
-  - 🌱 I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<bt><br>
-  - 💬 Ask me about: Tech, Films, Animes and League of Legends.<br>
-  - ⚡ Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
-  - 🎮 Gamer and Dog lover.<br>
+  - <img width="15px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /> I’m currently working as Data Analyst in Brazil.<br>
+  - <img width="15px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<bt><br>
+  - <img width="15px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
+  - <img width="15px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
+  - <img width="15px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/console.svg" /> Gamer and Dog lover.<br>
   </p>   
  
 
