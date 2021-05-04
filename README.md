@@ -24,14 +24,14 @@
 <br>
 
   <a href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="left" alt="Junior Torres | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
   </a>
 
   <a href="https://www.instagram.com/callmejuniorr/">
-    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" />
   </a>
   <a href="mailto:juniortorres.mth@gmail.com">
-    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
   </a>
 
 <br><br><br><br>
