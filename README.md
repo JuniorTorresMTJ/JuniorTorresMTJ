@@ -1,26 +1,26 @@
 # Junior Torres &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
- 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
- <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
+ 
+## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p><b>"In the comfort zone there is no growth."</b><p>
+<p>
     I'm Junior Torres, I'm a Data Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is passionate about Data technologies and its entire ecosystem. 
     Graduating from <a href="https://spo.ifsp.edu.br/"> <b>Instituto Federal de São Paulo (IFSP)</b>, Brazil</a>. <br>
     A budding <b>Developer</b>  and a <b>Data Science Enthusiast.<br>
 </p>
  
  <p>
-  - ⭐️ I’m currently working as Data Analyst at RankmyApp in Brazil.<br>
-  - 🌱 I’m currently learning Python, Data Science, AI and PowerBi.<bt><br>
+  - ⭐️ I’m currently working as Data Analyst in Brazil.<br>
+  - 🌱 I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<bt><br>
   - 💬 Ask me about: Tech, Films, Animes and League of Legends.<br>
-  - ⚡ Technologies: Python, Pandas, HTML, CSS, PowerBi and Excel.<br>
+  - ⚡ Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
   - 🎮 Gamer and Dog lover.<br>
   </p>   
  
-<p><b>"In the comfort zone there is no growth."</b><p>
- 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-<br>
+
 <br>
 
   <a href="https://www.linkedin.com/in/marivaldotorres/">
