@@ -20,8 +20,7 @@
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/console.svg" /> Gamer and Dog lover.<br>
   </p>   
- <br><br><br><br><br><br><br><br><br><br><br>
-<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/marivaldotorres/"><img align="left" alt="Junior Torres | Linkedin" width="24px"
                                                               src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" /></a>
