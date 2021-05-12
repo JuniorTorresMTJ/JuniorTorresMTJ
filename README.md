@@ -1,4 +1,5 @@
 # Junior Torres &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JuniorTorresMTJ" alt="brunoamaraldev" /> </p>
 
 <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
@@ -19,20 +20,16 @@
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/console.svg" /> Gamer and Dog lover.<br>
   </p>   
- 
+ <br><br><br><br><br><br><br><br><br><br><br>
 <br>
-
-  <a href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="left" alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
-  </a>
-
-  <a href="https://www.instagram.com/callmejuniorr/">
-    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" />
-  </a>
-  <a href="mailto:juniortorres.mth@gmail.com">
-    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
-  </a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/marivaldotorres/"><img align="left" alt="Junior Torres | Linkedin" width="24px"
+                                                              src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/callmejuniorr/"><img align="left" alt="Junior Torres | Instagram" width="24px"
+                                                          src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" /></a>
+  <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Junior Torres | Gmail" width="26px"
+                                                   src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
+</p>
 <br><br>
 
 <a href="https://github.com/JuniorTorresMTJ">
