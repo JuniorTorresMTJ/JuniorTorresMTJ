@@ -1,5 +1,5 @@
 # Junior Torres &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JuniorTorresMTJ" alt="brunoamaraldev" /> </p>
+
 
 <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
  
  <p>
-  - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /> I’m currently working as Data Analyst in Brazil.<br>
+  - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /> I’ve been working as Data Analyst in Brazil.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
@@ -28,8 +28,9 @@
                                                           src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" /></a>
   <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Junior Torres | Gmail" width="26px"
                                                    src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
+ <img src="https://komarev.com/ghpvc/?username=JuniorTorresMTJ" alt="JuniorTorresMTJ" />
 </p>
-<br><br>
+<br>
 
 <a href="https://github.com/JuniorTorresMTJ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTorresMTJ&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
