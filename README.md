@@ -41,7 +41,7 @@
 </a>
 <br>
 
-![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
 
 <img align="left" width="300px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/data_nerd.gif"/>
 <img align="right"width="400px"src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/hashtag.gif"/>
