@@ -40,6 +40,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuniorTorresMTJ&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
+<img align="left" src="https://raw.githubusercontent.com/JuniorTorresMTJ/JuniorTorresMTJ/master/image/github-user-contribution.svg"/>
+
+![snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/github-user-contribution.svg)
 
 <img align="left" width="300px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/data_nerd.gif"/>
 <img align="right"width="400px"src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/hashtag.gif"/>
