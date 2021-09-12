@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://github.com/JuniorTorresMTJ">
- <img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=JuniorTorresMTJ&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=JuniorTorresMTJ&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
 
