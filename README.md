@@ -9,7 +9,7 @@
 <p><b>"In the comfort zone there is no growth."</b><p>
 <p>
     I'm Junior Torres and work as a Data Analyst <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is passionate about Data technologies and its entire ecosystem. 
-    Graduating from <a href="https://spo.ifsp.edu.br/"> <b>Instituto Federal de São Paulo (IFSP)</b></a>, Brazil. <br>
+    Graduating from <a href="https://spo.ifsp.edu.br/"  target="_blank"> <b>Instituto Federal de São Paulo (IFSP)</b></a>, Brazil. <br>
     A budding <b>Developer</b>  and a <b>Data Scientist.<br>
 </p>
  
@@ -22,14 +22,34 @@
   </p>   
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marivaldotorres/"><img align="left" alt="Junior Torres | Linkedin" width="24px"
+  <a href="https://www.linkedin.com/in/marivaldotorres/"  target="_blank"><img align="left" alt="Junior Torres | Linkedin" width="24px"
                                                               src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/callmejuniorr/"><img align="left" alt="Junior Torres | Instagram" width="24px"
+  <a href="https://www.instagram.com/callmejuniorr/"  target="_blank" ><img align="left" alt="Junior Torres | Instagram" width="24px"
                                                           src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" /></a>
   <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Junior Torres | Gmail" width="26px"
                                                    src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
  <img src="https://komarev.com/ghpvc/?username=JuniorTorresMTJ" alt="JuniorTorresMTJ" />
 </p>
+<br>
+
+## PROJETOS
+<img align="left" width="250px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
+
+<p align="left">
+ <br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/TowerBank" target="_blank">  &nbsp; Projeto TowerBank</a> <br>
+ <p></p>
+<br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn" target="_blank"> &nbsp; Projeto MOA no Paredawn</a>  <br>
+ <p></p>
+ <br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo" target="_blank"> &nbsp; Projeto Deu_Positivo</a><br>
+ <p></p>
+<br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID" target="_blank"> &nbsp; Projeto Todo Mundo Odeia o Covid</a> <br>
+ <p></p>
+</p>
+<br>
 <br>
 
 <a href="https://github.com/JuniorTorresMTJ">
