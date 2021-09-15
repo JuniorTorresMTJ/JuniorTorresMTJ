@@ -52,6 +52,8 @@
 <br>
 <br>
 
+![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/JuniorTorresMTJ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTorresMTJ&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
 </a>
@@ -60,8 +62,6 @@
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=JuniorTorresMTJ&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
-
-![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
 
 <img align="left" width="300px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/data_nerd.gif"/>
 <img align="right" width="400px"src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/hashtag.gif"/>
