@@ -33,23 +33,22 @@
 <br>
 
 ## PROJETOS
-<img align="left" width="250px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
+<img align="left" width="300px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
 
 <p align="left">
  <br>
  <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/TowerBank" target="_blank">  &nbsp; Projeto TowerBank</a> <br>
- <p></p>
+ <p>Análise de Crédito</p>
 <br>
  <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn" target="_blank"> &nbsp; Projeto MOA no Paredawn</a>  <br>
- <p></p>
+ <p>Descobrimento de novos medicamentos</p>
  <br>
  <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo" target="_blank"> &nbsp; Projeto Deu_Positivo</a><br>
- <p></p>
+ <p>Análise de dados públicos do SUS</p>
 <br>
  <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID" target="_blank"> &nbsp; Projeto Todo Mundo Odeia o Covid</a> <br>
- <p></p>
+ <p>Previsão de novos leitos na UTI</p>
 </p>
-<br>
 <br>
 
 ![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
