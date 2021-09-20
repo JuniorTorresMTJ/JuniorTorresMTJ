@@ -33,7 +33,7 @@
 <br>
 
 ## PROJETOS
-<img align="left" width="300px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
+<img align="left" width="320px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
 
 <p align="left">
  <br>
