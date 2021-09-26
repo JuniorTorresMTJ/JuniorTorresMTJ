@@ -54,7 +54,7 @@
 ![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/JuniorTorresMTJ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTorresMTJ&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTorresMTJ&&langs_count=3&theme=tokyonight&hide_langs_below=1"/>
 </a>
 
 <a href="https://github.com/JuniorTorresMTJ">
