@@ -4,11 +4,11 @@
 <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
  
-## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="5px">
+## Hello world!&nbsp;
 
 <p><b>"In the comfort zone there is no growth."</b><p>
 <p>
-    I'm Junior Torres and work as a Data & Analytics <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="5px"> who is passionate about Data technologies and its entire ecosystem. 
+    I'm Junior Torres and work as a Data & Analytics  who is passionate about Data technologies and its entire ecosystem. 
     Graduate from <a href="https://spo.ifsp.edu.br/"  target="_blank"> <b>Instituto Federal de São Paulo (IFSP)</b></a>, Brazil. <br>
     A budding <b>Developer</b>  and a <b>Data Scientist.<br>
 </p>
