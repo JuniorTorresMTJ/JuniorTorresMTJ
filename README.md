@@ -8,7 +8,7 @@
 
 <p><b>"In the comfort zone there is no growth."</b><p>
 <p>
-    I'm Junior Torres and work as a Data & Analytics  who is passionate about Data technologies and its entire ecosystem. 
+    I'm Junior Torres and work as Machine Learning Engineer who is passionate about Data technologies and its entire ecosystem. 
     Graduate from <a href="https://spo.ifsp.edu.br/"  target="_blank"> <b>Instituto Federal de São Paulo (IFSP)</b></a>, Brazil. <br>
     A budding <b>Developer</b>  and a <b>Data Scientist.<br>
 </p>
