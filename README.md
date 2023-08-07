@@ -32,26 +32,30 @@
 </p>
 <br>
 
-## PROJETOS
-<img align="left" width="320px" alt="Projetos" src="https://media1.giphy.com/media/J39BCrabo3FNQQWLzl/giphy.gif"/>
+## PROJECTS
+<img align="left" width="500px" alt="Projects" src="https://media.giphy.com/media/tb7r0NnjqhpHh2Mvju/giphy.gif"/>
 
 <p align="left">
  <br>
- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/TowerBank" target="_blank">  &nbsp; Projeto TowerBank</a> <br>
- <p>Análise de Crédito</p>
-<br>
- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn" target="_blank"> &nbsp; Projeto MOA no Paredawn</a>  <br>
- <p>Descobrimento de novos medicamentos</p>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/model_api_mlops_project" target="_blank"> &nbsp; Model API MLOps Project</a>
  <br>
- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo" target="_blank"> &nbsp; Projeto Deu_Positivo</a><br>
- <p>Análise de dados públicos do SUS</p>
-<br>
- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID" target="_blank"> &nbsp; Projeto Todo Mundo Odeia o Covid</a> <br>
- <p>Previsão de novos leitos na UTI</p>
+ <p>Project that creates an api to deploy a machine learning model, implementing good MLOps practices, using docker, fastApi, mkdocs, poetry and PyPI.</p>
+ <br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/TowerBank" target="_blank">  &nbsp;TowerBank Project</a> 
+ <br>
+ <p>Classification model that performs the approval of a customer and a bank for a credit card, classifying whether he is a good payer or not with machine learning.</p>
+ <br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn" target="_blank"> &nbsp; MOA no Paredawn Project</a>  
+ <br>
+ <p> Project with the objective of discovering new drugs with machine learning.</p>
+ <br>
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /><a href="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo" target="_blank"> &nbsp; Deu_Positivo Project</a><br>
+ <p>Project that performs analysis of SUS public data using python, pandas and main data visualization libraries.</p>
 </p>
-<br>
 
-![Snake animation](https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="1200"/>
+</p>
 
 <a href="https://github.com/JuniorTorresMTJ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorTorresMTJ&&langs_count=3&theme=tokyonight&hide_langs_below=1"/>
@@ -61,6 +65,5 @@
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=JuniorTorresMTJ&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
-
-<img align="left" width="300px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/data_nerd.gif"/>
-<img align="right" width="400px"src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/hashtag.gif"/>
+<img align="left" width="300px" src="https://media3.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif"/>
+<img align="right" width="300px"src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/hashtag.gif"/>
