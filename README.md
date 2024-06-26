@@ -14,7 +14,7 @@
 </p>
  
  <p>
-  - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /> I’ve been working as Data Analyst in Brazil.<br>
+  - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/star.svg" /> I’ve been working as Machine Learning in Ireland.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
   - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Technologies: Python, SQL, HTML, CSS, PowerBi and Excel.<br>
